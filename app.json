@@ -1,0 +1,12 @@
+{
+    "name": "Chatter",
+    "status": "Alpha",
+    "description": "Yet another chatting website.",
+    "repository": "https://github.com/venomsnake/chatter",
+    "logo": "https://telegra.ph/file/3eadd386697205a815e87.png",
+    "keywords": [
+      "html",
+      "jss",
+      "css"
+      ]
+}
